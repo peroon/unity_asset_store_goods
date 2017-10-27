@@ -6,7 +6,7 @@ using UnityEngine;
 /// sample
 /// </summary>
 
-public class DestructablePot : MonoBehaviour {
+public class DestructiblePot : MonoBehaviour {
 
     public GameObject brokenPrefab;
     public AudioSource breakSound;
